@@ -1,0 +1,3 @@
+`define data_width 32
+`define addr_width 32
+`define mem_depth 16
